@@ -23,7 +23,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="500">
+  <img src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width="500">
 </p>
 
 <br/>
